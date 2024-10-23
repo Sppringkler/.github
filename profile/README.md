@@ -23,15 +23,15 @@
 
 ### 기능
 
-- [ ] [CRUD](https://www.notion.so/CRUD-11136ff0eb948074bd87ce8ab3161bf0?pvs=21)
+- [ ] [CRUD]
 
-- [ ] [Paging](https://www.notion.so/Paging-11136ff0eb94802b80b7d80d2d389383?pvs=21)
+- [ ] [Paging]
 
-- [ ] [Email (SMTP)](https://www.notion.so/Email-SMTP-11136ff0eb948054a2d6f46f5599f54e?pvs=21)
+- [ ] [Email (SMTP)]
 
-- [ ] [OAuth(KAKAO)](https://www.notion.so/OAuth-KAKAO-11136ff0eb9480c9b2d4cc823299c943?pvs=21)
+- [ ] [OAuth(KAKAO)]
 
-- [ ] [Image Uploader](https://www.notion.so/Image-Uploader-11b36ff0eb94809b8a70d2615ecdb962?pvs=21)
+- [ ] [Image Uploader]
 
-- [ ] [FCM](https://www.notion.so/FCM-11c36ff0eb94809ea1cad3dd31c7844e?pvs=21)
+- [ ] [FCM]
 
